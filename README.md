@@ -13,4 +13,8 @@ This repository is the release repository for the S-Word App, which is an experi
 6. Save reading history
 7. QR code sharing for your reading position
 
+## Datasource
+- Hymn: https://www.hymnal.net
+- Bible and life study: https://line.twgbr.org
+
 ## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.2/app-release.apk)
