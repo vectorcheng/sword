@@ -17,4 +17,8 @@ This repository is the release repository for the S-Word App, which is an experi
 - Hymn: https://www.hymnal.net
 - Bible and life study: https://line.twgbr.org
 
+## Tutorial
+
+https://youtu.be/ylDZZvqrdOU?si=BJoqeQQdKDHkw2MQ
+
 ## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.5/app-release.apk)
