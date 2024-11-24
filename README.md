@@ -20,4 +20,4 @@ This repository is the release repository for the S-Word App, which is an experi
 ## Tutorial
 
 
-## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.6/app-release.apk)
+## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.7/app-release.apk)
