@@ -20,4 +20,6 @@ This repository is the release repository for the S-Word App, which is an experi
 ## Tutorial
 
 
-## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.7/app-release.apk)
+## [Download link](https://github.com/vectorcheng/sword/releases/download/1.0.8/app-release.apk)
+
+> The sheet music file is included in the attachments of release 1.0.7. Please [download](https://github.com/vectorcheng/sword/releases/download/1.0.7/sheet.zip) it yourself.
