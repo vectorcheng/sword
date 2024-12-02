@@ -1,4 +1,4 @@
-# [S-Word](https://sword.carmels.org)
+# S-Word
 
 This repository is the release repository for the S-Word App, which is an experimental project developed with Flutter for cross-platform application development, intended solely for technical learning and exchanging. If you have any suggestions or encounter any issues during use, please feel free to open an issue on [GitHub](https://github.com/vectorcheng/sword/issues).
 
@@ -17,5 +17,6 @@ This repository is the release repository for the S-Word App, which is an experi
 - Hymn: https://www.hymnal.net
 - Bible and life study: https://line.twgbr.org
 
-## Tutorial
+## [Download](comingsoon)
+
 
